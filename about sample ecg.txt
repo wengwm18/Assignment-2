@@ -1,0 +1,9 @@
+The ECG files are data files where the values are just space separated numbers.
+
+time(ms) Channel 1 Channel 2 Channel 3 
+For example:
+
+1 2000 1293 656
+3 1297 45 666
+
+Sampling rate in this case is 500Hz. You can load such a file into word if you like. Gives great bed-time reading. ;-)
